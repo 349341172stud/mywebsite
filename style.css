@@ -1,0 +1,7 @@
+body{font-family:Arial;margin:0;background:#f4f4f4;color:#222}
+.site-header{background:#111;color:#fff;padding:20px}
+.logo{border:2px solid gold;padding:10px}
+nav a{color:white;margin-right:10px;text-decoration:none}
+main{padding:20px}
+.card{background:white;padding:20px;margin:15px 0;border-radius:10px}
+.placeholder{background:#ddd;padding:40px;text-align:center}
